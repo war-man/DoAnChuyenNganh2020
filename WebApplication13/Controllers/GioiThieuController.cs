@@ -12,6 +12,7 @@ namespace WebApplication13.Controllers.Admin
         public ActionResult Index()
         {
             return View();
+            //test
         }
     }
 }
